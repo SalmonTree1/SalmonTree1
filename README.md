@@ -9,7 +9,7 @@
 - Projects that mix logic, creativity, and performance
 
 ### ⚙️ Languages I use
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,javascript,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,javascript,python&theme=dark)](https://skillicons.dev)
 
 <br clear="right"/>
 
